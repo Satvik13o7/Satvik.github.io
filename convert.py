@@ -111,7 +111,7 @@ def create_html_page(frontmatter, content_html, toc_html):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{title} - all about gpus</title>
+    <title>{title} - satvik</title>
     <link rel="stylesheet" href="../../styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -120,7 +120,7 @@ def create_html_page(frontmatter, content_html, toc_html):
 <body>
     <div class="banner">
         <div class="banner-content">
-            <h1 class="banner-title">all about gpus</h1>
+            <h1 class="banner-title">satvik</h1>
         </div>
     </div>
 
